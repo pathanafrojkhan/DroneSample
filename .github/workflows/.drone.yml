@@ -4,7 +4,7 @@ name: droneiotest
    
 steps:
 - name: test
-  image: alpine
+  #image: alpine
   commands:
   - echo hello
   - echo world
